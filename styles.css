@@ -65,18 +65,19 @@
   }
 
   td {
-      padding: 2px;
-      margin: 0;
-      line-height: 1.2;
+     padding: 2px;
+     margin: 0;
+     line-height: 1.2;
   }
   .properties {
-      text-transform: uppercase;
-      font-style: italic;
-      color: darkblue;
+     text-transform: uppercase;
+     font-style: italic;
+     color: darkblue;
   }
 
-.example {
-    font-weight:800;
-    font-family: 'Courier New', Courier, monospace;
-    color:crimson;
-}
+   .example {
+     font-weight:800;
+     font-family: 'Courier New', Courier, monospace;
+     color:crimson;
+     display: block;
+  }
